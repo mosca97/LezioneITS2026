@@ -3,9 +3,7 @@
     <File Path="docs/add_new_project.MD" />
     <File Path="docs/git.MD" />
   </Folder>
-  <Folder Name="/exercises/">
-    <File Path="../../../../Downloads/csharp_oop_exercises.html" />
-  </Folder>
+  <Folder Name="/exercises/" />
   <Folder Name="/projects/">
     <Project Path="projects/App2/App2.csproj" />
     <Project Path="projects/ConsoleApp1/ConsoleApp1.csproj" />
