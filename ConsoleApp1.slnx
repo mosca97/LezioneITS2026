@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="lezione1/App2/App2.csproj" />
+  <Project Path="lezione1/ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="lezione1/Utility/Utility.csproj" />
+</Solution>
