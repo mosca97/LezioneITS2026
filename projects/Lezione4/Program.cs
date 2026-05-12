@@ -1,7 +1,6 @@
 ﻿// ── SelectMany ──────────────────────────────────────────────────────────────
 // Appiattisce una collezione di collezioni in una sequenza unica.
 // Scenario: ogni classe ha una lista di studenti; vogliamo tutti gli studenti.
-
 var classi = new List<Classe>()
 {
     new() { Nome = "Classe A", Studenti = new List<string> { "Alice", "Bob", "Carlo" } },
@@ -84,6 +83,7 @@ foreach (var gruppo in perAnno)
         Console.WriteLine($"    - {s.Nome}");
 }
 
+Console.ReadKey();
 
 public class Classe
 {
@@ -97,3 +97,5 @@ public class Studente
     public string Cognome { get; set; }
     public int Anno { get; set; }
 }
+
+public record StudenteRecord(string Nome, string Cognome, int Anno);
