@@ -12,5 +12,6 @@
     <Project Path="projects/Lezione4/Lezione4.csproj" Id="7e95a3c1-3642-4c57-beb0-17260e9ebd21" />
     <Project Path="projects/Lista/Lista.csproj" Id="29c357a6-4f42-4c5a-9910-1b7cc02ccfcd" />
     <Project Path="projects/Polimorfismo/Polimorfismo.csproj" />
+    <Project Path="Repository/Repository.csproj" Id="f58a3f7e-eeba-44c2-99b2-e0e260f1fee8" />
   </Folder>
 </Solution>
