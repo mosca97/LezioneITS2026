@@ -9,6 +9,7 @@
     <Project Path="projects/ConsoleApp1/ConsoleApp1.csproj" />
     <Project Path="projects/Database/Database.csproj" />
     <Project Path="projects/Lezione3/Lezione3.csproj" Id="a1625505-c8ae-47ea-bdce-75dfaa74c5d9" />
+    <Project Path="projects/Lezione4/Lezione4.csproj" Id="7e95a3c1-3642-4c57-beb0-17260e9ebd21" />
     <Project Path="projects/Lista/Lista.csproj" Id="29c357a6-4f42-4c5a-9910-1b7cc02ccfcd" />
     <Project Path="projects/Polimorfismo/Polimorfismo.csproj" />
   </Folder>

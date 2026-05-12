@@ -1,5 +1,11 @@
 ﻿using Lista;
 
+var a = new List<int>();
+
+var b = new int[5];
+
+var enumaerable = b.AsEnumerable();
+
 var lista = new ListaElementi<int>();
 
 lista.Add(6);
